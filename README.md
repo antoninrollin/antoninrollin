@@ -1,6 +1,6 @@
 # ABOUT ME :
 
-## Salut, moi c'est Antonin **Rollin** 🗿​.
+## Salut, moi c'est **Antonin** **Rollin** 🗿​.
 
 Je suis actuellement en **ecole d'ingénieur** à l'ECE lyon💡, et j'utilise **GITHUB** pour:
 
