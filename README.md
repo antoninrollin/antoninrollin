@@ -1,40 +1,12 @@
-# Les basiques de Markdown
+# ABOUT ME :
 
-## titre 2
+## Salut, moi c'est Antonin **Rollin** 🗿​.
 
-### titre 3
+Je suis actuellement en ecole d'ingénieur à l'ECE lyon💡, et j'utilise **GITHUB** pour:
 
-ceci est un messsage en **gras** et en *italique*
+- projet informatique 💻
+- projet électronique ⚡
 
-## Faire des listes
+Je viens de **Lyon** 🔴🔵, la ville des lumières.
 
-- Item 1
-- Item 2
-  - Item 2.1
-  - Item 2.2
-- Item 3
 
-1. ITEM 1
-2. ITEM 2
-   1. ITEM 2.1
-   2. ITEM 2.2
-
-## TODO
-
--[X] Action 1
--[ ] Action 2
-
-### CODE
-
-```c
-int main(){
-    return O;
-};
-```
-
-### Images
-
-![chien](https://picsum.photos/id/237/200/300)
-
-### equations
-$$ x^n + y^n = z^n $$
